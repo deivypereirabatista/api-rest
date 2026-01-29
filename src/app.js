@@ -1,10 +1,10 @@
-const express = require('express');
-const app = express()
-const port = 3000
+const express = require('express') //Importar o express
+const app = express() //Criar instancia do express
+const port = 3000 //Definir a porta
 
 //Criar rota padrão ou raiz
 app.get('/', (req, res) =>{
-    res.send('Verificando Rota')
+    res.send('Verificando as Rotas!')
 })
 
 
