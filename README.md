@@ -13,3 +13,8 @@ Aula 02 - Cirar Rotas GET com Express, Refatorando Código, Extensão JSON Viewe
 - Como criar rotas de requisição GET para exibir textos simples, JSON e status code.
 - Criação de arquivo server para subir servidor.
 - Utilização de Mock para mocar dados para testes.
+
+Aula 03 - Criação de Rota POST e leitura de JSON com REST Client 
+- Como utilizar rota POST.
+- Realização de leitura de arquivos JSON.
+- Teste de API com REST Client

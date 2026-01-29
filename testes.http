@@ -1,0 +1,20 @@
+### Incluir Seleção (POST com JSON)
+POST https://legendary-telegram-v67gxr5jv7rx3wpw9-3000.app.github.dev/selecoes
+Content-Type: application/json
+
+{
+    "id": 5,
+    "selecao": "Qatar",
+    "grupo": "A"
+}
+
+###
+###Teste 2
+POST https://legendary-telegram-v67gxr5jv7rx3wpw9-3000.app.github.dev/selecoes
+Content-Type: application/json
+
+{
+    "id": 6,
+    "selecao": "Holanda",
+    "grupo": "A"
+}
